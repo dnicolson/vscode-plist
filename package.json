@@ -1,9 +1,5 @@
 {
   "activationEvents": [
-    "onCommand:plistEditor.clearCaches",
-    "onCustomEditor:plistEditor.bplistedit",
-    "onCustomEditor:plistEditor.plistedit",
-    "onCustomEditor:plistEditor.provisioningProfileEdit",
     "onLanguage:plist"
   ],
   "author": {
